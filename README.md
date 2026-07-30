@@ -60,13 +60,7 @@ I'm a Computer Engineering graduate from **Birzeit University**, passionate abou
 </p>
 
 **Embedded Systems & IoT**
-<p>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPIO%20%2F%20Sensors-555555?style=flat"/>
-<img src="https://img.shields.io/badge/SDR%20(ADALM--PLUTO)-333333?style=flat"/>
-</p>
-
+<p> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/Microcontrollers-00979D?style=flat"/> <img src="https://img.shields.io/badge/SDR%20(ADALM--PLUTO)-333333?style=flat"/> </p>
 ---
 
 ### 📫 Get in Touch
