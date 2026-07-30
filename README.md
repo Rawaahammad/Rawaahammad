@@ -70,4 +70,3 @@ I'm a Computer Engineering graduate from **Birzeit University**, passionate abou
 <a href="https://github.com/Rawaahammad"><img src="https://img.shields.io/badge/GitHub-Rawaahammad-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>⚡ Turning AI, hardware, and cloud into intelligent real-world applications.</i></p>
