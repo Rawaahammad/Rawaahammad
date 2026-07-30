@@ -3,7 +3,7 @@
 
 ### 🧭 About Me
 
-I'm a Computer Engineering graduate from **Birzeit University**, passionate about combining **Artificial Intelligence and Mobile/Cloud development** to build intelligent, real-world products. My work spans from wiring GPIO pins on a Raspberry Pi to building voice AI pipelines and cross-platform mobile apps.
+I'm a Computer Engineering graduate from **Birzeit University**, passionate about combining **Artificial Intelligence and Mobile/Cloud development** to build intelligent, real-world products. 
 
 - 🎓 B.Sc. in Computer Engineering — Birzeit University, Palestine (Graduated **July 2026**)
 - 🌱 Graduation Project: **Al-Faseelah World** — an AI-powered interactive educational toy for children
