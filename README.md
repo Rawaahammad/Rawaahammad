@@ -1,13 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer+%7C+AI+%26+Embedded+Systems;Building+AI-powered+real-world+applications;Flutter+%7C+Python+%7C+.NET+%7C+Cloud;Graduate+of+Birzeit+University+2026&font=Fira+Code&center=true&width=600&height=45&color=2E9EF7&vCenter=true&size=22" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="mailto:Rawaahammad3@gmail.com"><img src="https://img.shields.io/badge/Email-Rawaahammad3%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-Birzeit%2C%20Palestine-3D5A80?style=flat&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Graduated-July%202026-2E9EF7?style=flat"/>
-</p>
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer+%7C+AI+%26+Software+Development;Building+AI-powered+real-world+applications;Flutter+%7C+Python+%7C+.NET+%7C+Cloud;Graduate+of+Birzeit+University+2026&font=Fira+Code&center=true&width=600&height=45&color=2E9EF7&vCenter=true&size=22" alt="Typing SVG" /> </p> <p align="center"> <a href="mailto:Rawaahammad3@gmail.com"><img src="https://img.shields.io/badge/Email-Rawaahammad3%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/Location-Birzeit%2C%20Palestine-3D5A80?style=flat&logo=googlemaps&logoColor=white"/> <img src="https://img.shields.io/badge/Graduated-July%202026-2E9EF7?style=flat"/> </p>
 ---
 
 ### 🧭 About Me
